@@ -1,2 +1,35 @@
-# Casic
-The project currently works with web3 only and does not have a smart contract in place to manage payments. Therefore, the project team recognizes the risk associated with this setup and plans to implement a smart contract to handle payment management.
+# Installation
+
+**To install and run the project, please follow these steps:**
+
+1. **Prerequisites**: Ensure that you have the following dependencies installed:
+
+```
+  node v18.17.0
+```
+
+2. **Clone the Repository**: Clone the project repository to your local machine using the following command:
+
+```
+  git clone
+```
+
+3. **Install Dependencies**: Navigate to the project directory and install the required dependencies using the following command:
+
+```
+  npm install
+```
+
+4. **Run the Project**: Start the project by running the following command:
+
+```
+  npm start
+```
+
+5. **Access the Project**: Access the project by opening your browser and entering the following URL:
+
+```
+  http://localhost:875/
+```
+
+
